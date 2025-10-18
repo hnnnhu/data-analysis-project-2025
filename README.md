@@ -14,9 +14,9 @@ Bài tập và dự án nhóm môn Phân tích Dữ liệu - Trường Đại h�
 
 | Họ và tên | Mã số sinh viên | Vai trò |
 |------------|----------------|----------|
-| **Huỳnh Nguyễn Ngọc Như** | 3122410285 | Trưởng nhóm - Quản lý repository & tổng hợp báo cáo |
-| **Phạm Xuân Diệu** | 3122410051 | Thành viên - Xử lý và phân tích dữ liệu |
-| **Thạch Thị Hồng Đào** | 3122410068 | Thành viên - Trực quan hóa dữ liệu & trình bày kết quả |
+| **Huỳnh Nguyễn Ngọc Như** | 3122410285 | 
+| **Phạm Xuân Diệu** | 3122410051 |
+| **Thạch Thị Hồng Đào** | 3122410068 | 
 
 ---
 
