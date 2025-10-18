@@ -105,54 +105,49 @@ Quy trình này mô tả luồng công việc tiêu chuẩn trong một dự án
 
 Ví dụ dưới đây minh họa cách áp dụng quy trình phân tích dữ liệu vào một bài toán cụ thể.
 
-Bước 1 – Thu thập dữ liệu:
-Nhập dữ liệu từ tệp CSV, Excel hoặc nguồn công khai.
+1. Bước 1 – Thu thập dữ liệu: Nhập dữ liệu từ tệp CSV, Excel hoặc nguồn công khai.
 
-Bước 2 – Làm sạch dữ liệu:
-Xử lý các giá trị thiếu, loại bỏ dữ liệu không hợp lệ, chuẩn hóa định dạng.
+2. Bước 2 – Làm sạch dữ liệu: Xử lý các giá trị thiếu, loại bỏ dữ liệu không hợp lệ, chuẩn hóa định dạng.
 
-Bước 3 – Khám phá dữ liệu (EDA):
-Tính toán thống kê mô tả, kiểm tra phân phối và mối tương quan giữa các biến.
+3. Bước 3 – Khám phá dữ liệu (EDA): Tính toán thống kê mô tả, kiểm tra phân phối và mối tương quan giữa các biến.
 
-Bước 4 – Trực quan hóa:
-Vẽ biểu đồ phân phối, biểu đồ tán xạ (scatter plot), heatmap để phát hiện xu hướng.
+4. Bước 4 – Trực quan hóa: Vẽ biểu đồ phân phối, biểu đồ tán xạ (scatter plot), heatmap để phát hiện xu hướng.
 
-Bước 5 – Phân tích & Kết luận:
-Đưa ra nhận xét, rút ra insight và đề xuất hướng phân tích mở rộng.
+5. Bước 5 – Phân tích & Kết luận: Đưa ra nhận xét, rút ra insight và đề xuất hướng phân tích mở rộng.
 
 📈 KẾT QUẢ DỰ KIẾN
 
-Báo cáo tổng hợp quy trình xử lý dữ liệu.
+- Báo cáo tổng hợp quy trình xử lý dữ liệu.
 
-Các biểu đồ và đồ thị minh họa kết quả.
+- Các biểu đồ và đồ thị minh họa kết quả.
 
-Tệp báo cáo cuối cùng (PDF) trình bày kết quả và insight.
+- Tệp báo cáo cuối cùng (PDF) trình bày kết quả và insight.
 
-Repository GitHub minh chứng quá trình làm việc nhóm.
+- Repository GitHub minh chứng quá trình làm việc nhóm.
 
 📚 TÀI LIỆU THAM KHẢO
 
-Wes McKinney (2017), Python for Data Analysis, O'Reilly Media.
+1. Wes McKinney (2017), Python for Data Analysis, O'Reilly Media.
 
-Jake VanderPlas (2016), Python Data Science Handbook.
+2. Jake VanderPlas (2016), Python Data Science Handbook.
 
-Tài liệu hướng dẫn chính thức của Pandas, NumPy, Matplotlib, Seaborn.
+3. Tài liệu hướng dẫn chính thức của Pandas, NumPy, Matplotlib, Seaborn.
 
-Bài giảng môn Phân tích Dữ Liệu – TS. Đỗ Như Tài, Trường Đại học Sài Gòn.
+4. Bài giảng môn Phân tích Dữ Liệu – TS. Đỗ Như Tài, Trường Đại học Sài Gòn.
 
 📜 GIẤY PHÉP (LICENSE)
 
-Dự án được phát hành dưới giấy phép MIT License
-.
+Dự án được phát hành dưới giấy phép MIT License.
+
 Người dùng được phép sao chép, chỉnh sửa và sử dụng mã nguồn cho mục đích học tập, với điều kiện ghi nguồn gốc dự án.
 
 💬 KẾT LUẬN
 
-Dự án Phân tích Dữ Liệu là một phần quan trọng trong chương trình đào tạo Công nghệ Thông tin, giúp sinh viên:
+- Dự án Phân tích Dữ Liệu là một phần quan trọng trong chương trình đào tạo Công nghệ Thông tin, giúp sinh viên:
 
-Hiểu và thực hành quy trình khoa học dữ liệu.
+- Hiểu và thực hành quy trình khoa học dữ liệu.
 
-Rèn luyện kỹ năng xử lý, phân tích và trực quan hóa dữ liệu.
+- Rèn luyện kỹ năng xử lý, phân tích và trực quan hóa dữ liệu.
 
 Áp dụng công cụ hiện đại để khai thác thông tin và đưa ra nhận định dựa trên dữ liệu thực tế.
 
