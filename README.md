@@ -16,11 +16,11 @@
 
 ## 👥 THÀNH VIÊN THỰC HIỆN
 
-| Họ và tên | Mã số sinh viên | Vai trò |
-|------------|----------------|----------|
-| **Huỳnh Nguyễn Ngọc Như** | 3122410285 | Trưởng nhóm – Quản lý dự án, tổng hợp báo cáo |
-| **Phạm Xuân Diệu** | 3122410051 | Thành viên – Phân tích & xử lý dữ liệu |
-| **Thạch Thị Hồng Đào** | 3122410068 | Thành viên – Trực quan hóa & trình bày kết quả |
+| Họ và tên | Mã số sinh viên |
+|------------|----------------|
+| **Huỳnh Nguyễn Ngọc Như** | 3122410285 |
+| **Phạm Xuân Diệu** | 3122410051 |
+| **Thạch Thị Hồng Đào** | 3122410068 | 
 
 ---
 
@@ -73,42 +73,31 @@ Dự án tuân theo **quy trình phân tích dữ liệu 5 bước** như sau:
 
 ## 📁 CẤU TRÚC THƯ MỤC DỰ ÁN
 
-data-analysis-project-2025/
-├── data/ # Bộ dữ liệu sử dụng cho bài tập & dự án
-├── notebooks/ # Các file Notebook (.ipynb) cho từng bước phân tích
-├── reports/ # Báo cáo kết quả phân tích (PDF, DOCX)
-├── visuals/ # Hình ảnh, biểu đồ trực quan
-├── requirements.txt # Danh sách thư viện cần cài đặt
-└── README.md # Tài liệu mô tả dự án
 
-yaml
-Sao chép mã
 
----
 
 ## 🚀 CÁCH CHẠY DỰ ÁN
 
 1. **Clone repository:**
    ```bash
    git clone https://github.com/hnnnhu/data-analysis-project-2025.git
-Cài đặt thư viện cần thiết:
+2. Cài đặt thư viện cần thiết:
+   ```bash
+   pip install -r requirements.txt
+3. Mở dự án bằng Jupyter Notebook:
 
-bash
-Sao chép mã
-pip install -r requirements.txt
-Mở dự án bằng Jupyter Notebook:
+   ```bash
+   jupyter notebook
+   
+4. Thực thi các notebook trong thư mục notebooks/ để xem quá trình và kết quả phân tích.
 
-bash
-Sao chép mã
-jupyter notebook
-Thực thi các notebook trong thư mục notebooks/ để xem quá trình và kết quả phân tích.
+## 📊 QUY TRÌNH PHÂN TÍCH MẪU
 
-📊 QUY TRÌNH PHÂN TÍCH MẪU
-Mô hình tổng quát quy trình phân tích dữ liệu:
+**Mô hình tổng quát quy trình phân tích dữ liệu:**
+   
+   ```text
+   Data Source → Data Cleaning → EDA → Visualization → Analysis → Conclusion
 
-nginx
-Sao chép mã
-Data Source → Data Cleaning → EDA → Visualization → Analysis → Conclusion
 Ví dụ minh họa:
 
 Bước 1: Nhập dữ liệu từ file CSV.
