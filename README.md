@@ -143,12 +143,12 @@ Người dùng được phép sao chép, chỉnh sửa và sử dụng mã ngu�
 
 💬 KẾT LUẬN
 
-- Dự án Phân tích Dữ Liệu là một phần quan trọng trong chương trình đào tạo Công nghệ Thông tin, giúp sinh viên:
+Dự án Phân tích Dữ Liệu là một phần quan trọng trong chương trình đào tạo Công nghệ Thông tin, giúp sinh viên:
 
 - Hiểu và thực hành quy trình khoa học dữ liệu.
 
 - Rèn luyện kỹ năng xử lý, phân tích và trực quan hóa dữ liệu.
 
-Áp dụng công cụ hiện đại để khai thác thông tin và đưa ra nhận định dựa trên dữ liệu thực tế.
+- Áp dụng công cụ hiện đại để khai thác thông tin và đưa ra nhận định dựa trên dữ liệu thực tế.
 
 ⭐ “Phân tích dữ liệu không chỉ là xử lý con số — mà là khám phá câu chuyện ẩn sau dữ liệu.”
