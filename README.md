@@ -47,14 +47,7 @@ Dự án được phát triển bằng **Python** trong môi trường **Jupyter
 ## 📁 Cấu trúc thư mục
 
 data-analysis-project-2025/
-├── data/ # Chứa các bộ dữ liệu (CSV, Excel, JSON, v.v.)
-├── notebooks/ # Các file Jupyter Notebook (.ipynb)
-├── reports/ # Báo cáo và kết quả phân tích
-├── visuals/ # Hình ảnh, biểu đồ, đồ thị
-└── README.md # Mô tả dự án
 
-less
-Sao chép mã
 
 ---
 
@@ -90,6 +83,3 @@ Dự án được phát hành dưới giấy phép MIT License.
 Bạn được phép sử dụng và chỉnh sửa nội dung với điều kiện ghi nguồn.
 
 ⭐ “Phân tích dữ liệu không chỉ là con số — mà là câu chuyện phía sau chúng.”
-
-less
-Sao chép mã
