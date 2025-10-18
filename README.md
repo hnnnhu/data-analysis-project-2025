@@ -66,16 +66,14 @@ data-analysis-project-2025/
 1. **Clone repository:**
    ```bash
    git clone https://github.com/hnnnhu/data-analysis-project-2025.git
-Cài đặt thư viện cần thiết:
+2. Cài đặt thư viện cần thiết:
+   ```bash
+   pip install -r requirements.txt
 
-bash
-Sao chép mã
-pip install -r requirements.txt
-Chạy notebook:
+3. Chạy notebook:
 
-bash
-Sao chép mã
-jupyter notebook
+   ```bash
+   jupyter notebook
 Mở file trong thư mục notebooks/ để xem và chạy mã.
 
 📜 Giấy phép (License)
