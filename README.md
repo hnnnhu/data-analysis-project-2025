@@ -97,20 +97,31 @@ Dự án tuân theo **quy trình phân tích dữ liệu 5 bước** như sau:
    
    ```text
    Data Source → Data Cleaning → EDA → Visualization → Analysis → Conclusion
+   ```
 
-Ví dụ minh họa:
+Quy trình này mô tả luồng công việc tiêu chuẩn trong một dự án phân tích dữ liệu, bắt đầu từ việc thu thập dữ liệu thô cho đến khi rút ra được các kết luận và insight từ kết quả phân tích.
 
-Bước 1: Nhập dữ liệu từ file CSV.
+🧩 VÍ DỤ MINH HỌA
 
-Bước 2: Xử lý giá trị thiếu và dữ liệu không hợp lệ.
+Ví dụ dưới đây minh họa cách áp dụng quy trình phân tích dữ liệu vào một bài toán cụ thể.
 
-Bước 3: Tính toán thống kê mô tả và mối tương quan giữa các biến.
+Bước 1 – Thu thập dữ liệu:
+Nhập dữ liệu từ tệp CSV, Excel hoặc nguồn công khai.
 
-Bước 4: Vẽ biểu đồ phân phối, scatter plot, heatmap để phát hiện xu hướng.
+Bước 2 – Làm sạch dữ liệu:
+Xử lý các giá trị thiếu, loại bỏ dữ liệu không hợp lệ, chuẩn hóa định dạng.
 
-Bước 5: Đưa ra nhận xét và đề xuất hướng phân tích mở rộng.
+Bước 3 – Khám phá dữ liệu (EDA):
+Tính toán thống kê mô tả, kiểm tra phân phối và mối tương quan giữa các biến.
+
+Bước 4 – Trực quan hóa:
+Vẽ biểu đồ phân phối, biểu đồ tán xạ (scatter plot), heatmap để phát hiện xu hướng.
+
+Bước 5 – Phân tích & Kết luận:
+Đưa ra nhận xét, rút ra insight và đề xuất hướng phân tích mở rộng.
 
 📈 KẾT QUẢ DỰ KIẾN
+
 Báo cáo tổng hợp quy trình xử lý dữ liệu.
 
 Các biểu đồ và đồ thị minh họa kết quả.
@@ -120,19 +131,23 @@ Tệp báo cáo cuối cùng (PDF) trình bày kết quả và insight.
 Repository GitHub minh chứng quá trình làm việc nhóm.
 
 📚 TÀI LIỆU THAM KHẢO
+
 Wes McKinney (2017), Python for Data Analysis, O'Reilly Media.
 
 Jake VanderPlas (2016), Python Data Science Handbook.
 
 Tài liệu hướng dẫn chính thức của Pandas, NumPy, Matplotlib, Seaborn.
 
-Bài giảng môn Phân tích Dữ liệu – TS. Đỗ Như Tài, Trường Đại học Sài Gòn.
+Bài giảng môn Phân tích Dữ Liệu – TS. Đỗ Như Tài, Trường Đại học Sài Gòn.
 
 📜 GIẤY PHÉP (LICENSE)
-Dự án được phát hành dưới giấy phép MIT License.
+
+Dự án được phát hành dưới giấy phép MIT License
+.
 Người dùng được phép sao chép, chỉnh sửa và sử dụng mã nguồn cho mục đích học tập, với điều kiện ghi nguồn gốc dự án.
 
 💬 KẾT LUẬN
+
 Dự án Phân tích Dữ Liệu là một phần quan trọng trong chương trình đào tạo Công nghệ Thông tin, giúp sinh viên:
 
 Hiểu và thực hành quy trình khoa học dữ liệu.
